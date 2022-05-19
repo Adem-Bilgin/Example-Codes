@@ -1,6 +1,6 @@
 /* USER CODE BEGIN Header */
-/* Bu main.c dosyası Isı Nem Cihazı için asıl main dosyası değil. Asıl main.c dosyası ccs deki olan. Bu dosya eğere çalıştırılsaydı,  
- * diğer asıl main.c dosyası ile uygun bir şekilde birleştirilecek idi. */
+/* Bu "main.c" dosyası Isı Nem Cihazı için asıl main dosyası değil. Asıl "main.c" dosyası "css" deki olan. Bu dosya çalıştırılsaydı eğer,  
+ * diğeri olan asıl main.c dosyası ile uygun bir şekilde birleştirilecek idi. */
 
 
 /** https://narodstream.ru/stm-urok-68-lan-enc28j60-chast-1/ --->>> kodları buradan buldum.
