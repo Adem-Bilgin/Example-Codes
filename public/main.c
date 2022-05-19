@@ -1,5 +1,9 @@
 /* USER CODE BEGIN Header */
-/**
+/* Bu main.c dosyası Isı Nem Cihazı için asıl main dosyası değil. Asıl main.c dosyası ccs deki olan. Bu dosya eğere çalıştırılsaydı,  
+ * diğer asıl main.c dosyası ile uygun bir şekilde birleştirilecek idi. */
+
+
+/** https://narodstream.ru/stm-urok-68-lan-enc28j60-chast-1/ --->>> kodları buradan buldum.
  * USB TTL USART -->> A9TX:RX, A10RX:TX
  * GPIO OUTPUT -->> D12:LED (adam burayı C13 seçti)
  * Ethernet -->> A4:CS, A5:SPI1 SCK , A6:SPI1 MISO , A7:SPI1 MOSI, 3.3:Reset ve
